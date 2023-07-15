@@ -1,2 +1,2 @@
 # Tm1_ps
-Planning Sample Repository for GIT Learning
+This is a Planning Sample Repository for GIT and TM1 Learning
